@@ -1,0 +1,10 @@
+node_modules
+.env
+main.js
+src/commands/★ Config/layout.js
+src/commands/★ Config/resetar.js
+src/commands/★ Config/background.js
+src/commands/★ Info/profile.js
+src/events/eventos/perfils.js
+src/events/eventos/sobre-mim.js
+src/commands/★ Utilidades/sobemim.js
